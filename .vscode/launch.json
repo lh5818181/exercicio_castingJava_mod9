@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.conversaoCasting.Main",
+            "projectName": "exercicio_castingJava_mod9_c7ed6dc4"
+        },
+        {
+            "type": "java",
+            "name": "Java",
+            "request": "launch",
+            "stopOnEntry": false
+        }
+    ]
+}
